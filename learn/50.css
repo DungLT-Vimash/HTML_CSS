@@ -1,0 +1,11 @@
+:root{
+    --mauvang: yellow;
+    --text_size1: 11px;
+
+}
+body{
+    background-color: var(--mauvang);
+}
+h2{
+    font-size: var(--text_size1);
+}

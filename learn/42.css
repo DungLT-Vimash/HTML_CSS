@@ -1,0 +1,18 @@
+.chu{
+    height: 40px;
+    font-size: #414141;
+    font-size: 25px;
+    font-family: Verdana;
+    width: 200px;
+    background-color: orangered;
+    margin: auto;
+    margin-top: 50px;
+    overflow: hidden;
+}
+.chu .chunho{
+    padding-top: 50px;
+    transition: 0.4s;
+}
+.chu:hover .chunho{
+    padding-top: 0px;
+}

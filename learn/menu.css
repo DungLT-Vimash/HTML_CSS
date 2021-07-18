@@ -1,0 +1,32 @@
+ul{
+    list-style: none;
+    
+    width: 960px;
+    margin: auto;
+    text-align: center;
+}
+.menuTren{
+    background-color: #2fa1b3;
+
+}
+.menuNgang li{
+    display: inline;
+}
+ul.menuNgang a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;/*biến chữ thường thành chữ hoa*/
+    font-size: 13px;
+    display: inline-block;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    padding-right: 6px;
+    transition: 0.4s;
+}
+ul.menuNgang a:hover{
+    background-color: #06525e;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}

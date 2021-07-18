@@ -1,0 +1,8 @@
+img.anh{
+    opacity: 0;
+    transition: 0.4s;
+}
+img.sangphai{
+    margin-left: 200px;
+    opacity: 1;
+}
